@@ -17,7 +17,7 @@ public class doctorsControllers {
             case 12 : new Doctor(12, "Peter Capaldi");
             case 13 : new Doctor(13, "Jodie Whittaker");
             default : new Doctor(0, "John Hurt");
-        };
+        }
         return null;
     }
 
